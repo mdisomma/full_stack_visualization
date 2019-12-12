@@ -1,0 +1,54 @@
+.navbar-brand {
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-image: url("https://wtop.com/wp-content/uploads/2016/09/AP_699279867624-1880x1234.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+#cards{
+  display: inline-block;
+  border-radius: 10px;
+  margin-top: 100px;
+  margin-bottom:10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #ffffff;
+}
+#cards2{
+  display: inline-block;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom:100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #ffffff;
+}
+#cards-bottom{
+  display: inline-block;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-bottom:10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #ffffff;
+}
+#card-headers{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 40px;
+  font-weight: bold;
+}
+#dash{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#img{
+  margin-left: 40px;
+  margin-right: 40px;
+}
